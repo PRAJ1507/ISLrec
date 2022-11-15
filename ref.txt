@@ -1,0 +1,21 @@
+Title: ASL recognition using CNN
+Name
+Email
+Institute name
+Font size:16 ,14,12 
+Abstract:
+150-300 words. Less technical.
+ Introduction
+Idea about your problem and solution
+300-400 words.
+Block Diagram
+Technologies
+Algo,Dataset,Programming language,Platform
+
+Results 
+Screenshot,summery,accuracy
+Conclusion 
+150 words.
+Future scope
+Refrence:
+
